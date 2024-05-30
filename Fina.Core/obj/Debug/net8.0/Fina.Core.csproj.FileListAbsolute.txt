@@ -1,0 +1,12 @@
+D:\00_GITHUB\JornadaFullStack\Fina.Core\bin\Debug\net8.0\Fina.Core.deps.json
+D:\00_GITHUB\JornadaFullStack\Fina.Core\bin\Debug\net8.0\Fina.Core.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Core\bin\Debug\net8.0\Fina.Core.pdb
+D:\00_GITHUB\JornadaFullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\00_GITHUB\JornadaFullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.AssemblyInfoInputs.cache
+D:\00_GITHUB\JornadaFullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.AssemblyInfo.cs
+D:\00_GITHUB\JornadaFullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.csproj.CoreCompileInputs.cache
+D:\00_GITHUB\JornadaFullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.sourcelink.json
+D:\00_GITHUB\JornadaFullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Core\obj\Debug\net8.0\refint\Fina.Core.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Core\obj\Debug\net8.0\Fina.Core.pdb
+D:\00_GITHUB\JornadaFullStack\Fina.Core\obj\Debug\net8.0\ref\Fina.Core.dll
