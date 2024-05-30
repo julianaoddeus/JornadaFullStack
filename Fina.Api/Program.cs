@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-const string connectionString = "";
+const string connectionString = "server=localhost,1433;Database=Fina;User ID=SA;Password=1q2w3e4r@#$;TrustServerCertificate=True";
 
 builder.Services.AddDbContext<AppDbContext>( x => x.UseSqlServer(connectionString));
 builder.Services.AddTransient<ICategoryHandler, CategoryHandler>();
