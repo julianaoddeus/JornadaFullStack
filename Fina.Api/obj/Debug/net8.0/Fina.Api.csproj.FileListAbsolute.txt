@@ -133,3 +133,9 @@ D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.pdb
 D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.genruntimeconfig.cache
 D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\ref\Fina.Api.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.MvcApplicationPartsAssemblyInfo.cs

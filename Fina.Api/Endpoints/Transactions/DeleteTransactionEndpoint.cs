@@ -9,7 +9,7 @@ namespace Fina.Api.Endpoints.Transactions
     public class DeleteTransactionEndpoint : IEndpoint
     {
         public static void Map(IEndpointRouteBuilder app)
-            => app.MapPost("/{id}", HandleAsync)
+            => app.MapDelete("/{id}", HandleAsync)
             .WithName("Transactions: Delete")
             .WithSummary("Exclui uma transação")
             .WithOrder(3)            

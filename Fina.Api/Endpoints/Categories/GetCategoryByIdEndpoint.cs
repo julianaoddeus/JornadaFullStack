@@ -12,7 +12,7 @@ namespace Fina.Api.Endpoints.Categories
 {
     public class GetCategoryByIdEndpoint : IEndpoint
     {   public static void Map(IEndpointRouteBuilder app)
-            => app.MapPost("/{id}", HandleAsync)
+            => app.MapGet("/{id}", HandleAsync)
             .WithName("Categories: Get By Id")
             .WithSummary("Recupera uma nova categoria por id")
             .WithOrder(5)            
