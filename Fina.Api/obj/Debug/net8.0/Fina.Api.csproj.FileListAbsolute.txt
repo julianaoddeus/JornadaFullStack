@@ -138,4 +138,3 @@ D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.MvcApplicationPartsAssemblyInfo.cs

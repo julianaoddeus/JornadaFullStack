@@ -16,8 +16,8 @@ namespace Fina.Api.Endpoints.Transactions
     {
          public static void Map(IEndpointRouteBuilder app)
             => app.MapGet("/", HandleAsync)
-            .WithName("Categories: Get All")
-            .WithSummary("Recupera todas as categoria")
+            .WithName("Transactions: Get All")
+            .WithSummary("Recupera todas as transações")
             .WithOrder(4)            
             .Produces<PagedResponse<List<Transaction>?>>();
 
