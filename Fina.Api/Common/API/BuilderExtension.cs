@@ -29,7 +29,7 @@ public static class BuilderExtension
         );
     }
 
-    public static void AddCorsOrigin(this WebApplicationBuilder builder)
+    public static void AddCrossOrigin(this WebApplicationBuilder builder)
     {
         builder.Services.AddCors(
             options => options.AddPolicy(ApiConfiguration.CorsPolicyName, 

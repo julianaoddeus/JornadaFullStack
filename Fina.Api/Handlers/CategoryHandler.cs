@@ -56,14 +56,15 @@ namespace Fina.Api.Handlers
            try
            {
                 var query = context.Categories
-                .AsNoTracking()
-                .Where(w => w.UserId == request.UserId)
-                .OrderBy(o => o.Title);
+                   .AsNoTracking()
+                   .Where(x => x.UserId == request.UserId)
+                   .OrderBy(x => x.Title);
 
                 var categories = await query
-                .Skip((request.PageNumber - 1) * request.PageSize)
-                .Take(request.PageSize)
-                .ToListAsync();
+                 .Skip((request.PageNumber - 1) * request.PageSize)
+                 .Take(request.PageSize)
+                 .OrderBy(o => o.Id)
+                 .ToListAsync();
 
                 var count = await query.CountAsync();
 
@@ -71,8 +72,8 @@ namespace Fina.Api.Handlers
                     categories,
                     count,
                     request.PageNumber,
-                    request.PageSize
-                );
+                    request.PageSize);
+                
            }
            catch 
            {            

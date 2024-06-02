@@ -5,7 +5,7 @@ using Fina.Api.Endpoints;
 var builder = WebApplication.CreateBuilder(args);
 builder.AddCongifuration();
 builder.AddDbContexts();
-builder.AddCorsOrigin();
+builder.AddCrossOrigin();
 builder.AddDocumentation();
 builder.AddServices();
 

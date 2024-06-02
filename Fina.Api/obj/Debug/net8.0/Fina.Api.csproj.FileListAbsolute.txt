@@ -8,6 +8,7 @@ D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Fina.Api.pdb
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Azure.Core.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Azure.Identity.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Humanizer.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -17,6 +18,7 @@ D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
@@ -28,9 +30,13 @@ D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.IdentityModel.
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\System.CodeDom.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -116,6 +122,7 @@ D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.GeneratedMSBuil
 D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.AssemblyInfoInputs.cache
 D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.AssemblyInfo.cs
 D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.csproj.CoreCompileInputs.cache
+D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.sourcelink.json
 D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\staticwebassets.build.json
@@ -132,9 +139,3 @@ D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\refint\Fina.Api.dll
 D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.pdb
 D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\Fina.Api.genruntimeconfig.cache
 D:\00_GITHUB\JornadaFullStack\Fina.Api\obj\Debug\net8.0\ref\Fina.Api.dll
-D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
-D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\00_GITHUB\JornadaFullStack\Fina.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
